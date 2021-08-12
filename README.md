@@ -1,6 +1,6 @@
-Hey there, I'm Dominik, a coding Designer from Austria, striving for visual clarity and simplicity.
+Hey there, I'm Dominik, a **coding Designer from Austria**, striving for visual clarity and simplicity.
 
-Currently I’m working as a Product & Brand Designer at [Blockpit](https://blockpit.io), supporting thousands of Users with their crypto taxes. Previously I worked as a UX Engineer at [Storyclash](https://storyclash.com).
+Currently I’m working as a **Product & Brand Designer** at [Blockpit](https://blockpit.io), supporting thousands of Users with their crypto taxes. Previously I worked as a **UX Engineer** at [Storyclash](https://storyclash.com).
 
 ### Social
 - Twitter - [@wurmdo](https://twitter.com/wurmdo)
